@@ -1,0 +1,4 @@
+Pastikan untuk IP address 
+Pada Bagian ini http://172.xx.x.xx/ApiFlutter/getdata.php
+dapat dilihat dengan buka CMD
+lalu ketik 'ipconfig' sebagai alamat model data pada sistem CRUD
